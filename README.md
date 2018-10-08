@@ -1,2 +1,2 @@
 # web-content
-Web Content in MD files for www.davsk.com.
+Web Content in MD files for Huny-B.CBD-Oil.App
