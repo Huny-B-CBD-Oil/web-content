@@ -17,6 +17,7 @@ keywords:
   - Essential Oil
   - bath bomb
   - energize
+  - revive
   - relaxing
   - reenergize
   - spa]
