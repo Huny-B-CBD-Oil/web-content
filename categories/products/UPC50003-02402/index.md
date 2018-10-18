@@ -1,5 +1,5 @@
 ---
-title: 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 app
+title: 50 mg CBD Serenity Bath Bombs Lavender and Rosemary 1 app
 author: belinda.gates@cbd-oil.app
 date: 2019-10-10
 UPC: 
@@ -8,26 +8,26 @@ UPC:
  - 50003-02491, 144
 categories:
   - products
-description: We designed our 50 mg CBD Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: We designed our 50 mg CBD Bath Bombs to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and Rosemary Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 keywords: 
   - CBD
-  - Pepperment Essential Oil
-  - Eucalyptus Essential Oil
-  - sore muscles
+  - Lavender Essential Oil
+  - Rosemary Essential Oil
+  - stress
   - Essential Oil
   - bath bomb
   - soak
   - relaxing
-  - pain
+  - calming
   - spa]
 tags: 
   - CBD
-  - Pepperment Essential Oil
-  - Eucalyptus Essential Oil
-  - sore muscles
-  - soak
+  - Lavender Essential Oil
+  - Rosemary Essential Oil
   - relaxing
-  - pain
+  - soak
+  - calm
+  - stress
   - spa]
 resImgTeaser: something.png
 slug: 50mgCBDBathBombsPepEuc1
@@ -52,8 +52,8 @@ $18.25
     50 mg CBD
     Serenity Bath Bombs 
 ### Identity
-    Pepperment
-    Eucalyptus
+    Lavender
+    Rosemary
 ### Weight
     Net Wt. 6 oz.
     1 application
@@ -67,7 +67,7 @@ Drop your bathbomb into a warm bath and enjoy the soak.
 </span>
 
 ### Intended Use
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+Designed to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and Rosemary Essential Oils.
 ## Ingredients en-US 
 ### Active Ingredients
 * CBD
@@ -76,8 +76,8 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 * Epson Salt
 * Cornstarch
 * Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+* Lavender Essential Oil
+* Rosemary Essential Oil
 ### Other Ingredients
 * Polysorbate 80
 * Mica Color
@@ -89,8 +89,8 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 * Epson Salt
 * Cornstarch
 * Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
+* Lavender Essential Oil
+* Rosemary Essential Oil
 ### Other Ingredients
 * Polysorbate 80
 * Mica Color
