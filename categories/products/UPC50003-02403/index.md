@@ -8,7 +8,7 @@ UPC:
  - 50003-02491, 144
 categories:
   - products
-description: We designed our 50 mg CBD Bath Bombs to reenergize and invigorate by taking advantage of the wonderful energizing and uplifting properties of CBD, Sweet Ornage and Ginger Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: We designed our 50 mg CBD Sweet Orange and Ginger Bath Bombs to reenergize and invigorate by taking advantage of the wonderful energizing and uplifting properties of CBD, Sweet Ornage and Ginger Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 keywords: 
   - CBD
   - Sweet Orange Essential Oil
