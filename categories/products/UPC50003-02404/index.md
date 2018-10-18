@@ -8,7 +8,7 @@ UPC:
  - 50003-02491, 144
 categories:
   - products
-description: We designed our 50 mg CBD Bath Bombs for people who are have a hard time with the scents but still want to enjoy a good soaking bath. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: We designed our 50 mg CBD Unsected Bath Bombs for people who are have a hard time with the scents but still want to enjoy a good soaking bath. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 keywords: 
   - CBD
   - hypoallergenic
