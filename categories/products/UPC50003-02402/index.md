@@ -8,7 +8,7 @@ UPC:
  - 50003-02491, 144
 categories:
   - products
-description: We designed our 50 mg CBD Bath Bombs to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and Rosemary Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: We designed our 50 mg CBD Lavender and Rosemary Bath Bombs to calm and relax your body and mind by taking advantage of the tranquil properties of CBD, Lavender and Rosemary Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 keywords: 
   - CBD
   - Lavender Essential Oil
