@@ -61,9 +61,9 @@ $18.25
 ### Direction for Safe Use
 Drop your bathbomb into a warm bath and enjoy the soak.
 
-<span class="WarningTheme">
 ### Warnings
-Caution: Tub may be slippery when entering and exiting.
+<span class="WarningTheme">
+  Caution: Tub may be slippery when entering and exiting.
 </span>
 
 ### Intended Use
@@ -73,12 +73,24 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 * CBD
 * Citric Acid
 * Baking Soda
-* Epson Salt, Cornstarch, Coconut Oil,  Peppermint Essential Oil, Eucalyptus Essential Oil
+* Epson Salt
+* Cornstarch
+* Coconut Oil
+* Peppermint Essential Oil
+* Eucalyptus Essential Oil
 ### Other Ingredients
 * Polysorbate 80
 * Mica Color
 ## Ingredients en-UK 
 ### Active Ingredients
-CBD, Citric Acid, Baking Soda, Epson Salt, Cornstarch, Coconut Oil,  Peppermint Essential Oil, Eucalyptus Essential Oil
+* CBD
+* Citric Acid
+* Baking Soda
+* Epson Salt
+* Cornstarch
+* Coconut Oil
+* Peppermint Essential Oil
+* Eucalyptus Essential Oil
 ### Other Ingredients
-Polysorbate 80, Mica Color
+* Polysorbate 80
+* Mica Color
