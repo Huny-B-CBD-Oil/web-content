@@ -14,6 +14,9 @@ keywords:
   - hypoallergenic
   - unscented
   - allergy
+  - sedative
+  - sleeplessness
+  - antidepressant
   - calm
   - bath bomb
   - sore muscle
