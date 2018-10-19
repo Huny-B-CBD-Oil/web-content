@@ -14,15 +14,19 @@ keywords:
   - Pepperment Essential Oil
   - Eucalyptus Essential Oil
   - sore muscles
-  - Essential Oil
+  - relief
   - bath bomb
+  - aromatherapy  
   - soak
   - relaxing
   - soothe
   - sleeplessness
-  - stress out
+  - stressed out
+  - mental exhaustion
   - congestion
-  - aching muscles
+  - depression
+  - refreshing
+  - restlessness
   - muscle aches
   - pain
   - spa]
