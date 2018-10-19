@@ -16,6 +16,7 @@ keywords:
   - allergy
   - sedative
   - sleeplessness
+  - alleviate
   - antidepressant
   - calm
   - bath bomb
