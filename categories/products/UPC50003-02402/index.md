@@ -13,8 +13,14 @@ keywords:
   - CBD
   - Lavender Essential Oil
   - Rosemary Essential Oil
-  - stress
-  - Essential Oil
+  - stress relief
+  - cancer
+  - migraine
+  - burns
+  - pain releif
+  - headaches
+  - diabetes
+  - mood
   - bath bomb
   - soak
   - relaxing
