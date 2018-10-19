@@ -18,6 +18,11 @@ keywords:
   - bath bomb
   - soak
   - relaxing
+  - aromatherapy
+  - sleeplessness
+  - anxiety
+  - antidepressant
+  - insomnia
   - calming
   - spa]
 tags: 
