@@ -16,6 +16,7 @@ keywords:
   - stress relief
   - cancer
   - migraine
+  - sedative
   - burns
   - pain releif
   - headaches
