@@ -18,6 +18,12 @@ keywords:
   - bath bomb
   - soak
   - relaxing
+  - soothe
+  - sleeplessness
+  - stress out
+  - congestion
+  - aching muscles
+  - muscle aches
   - pain
   - spa]
 tags: 
