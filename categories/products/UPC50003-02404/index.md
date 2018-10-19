@@ -17,6 +17,7 @@ keywords:
   - calm
   - bath bomb
   - sore muscle
+  - anti-inflammatory
   - revive
   - cramps
   - hemp oil
