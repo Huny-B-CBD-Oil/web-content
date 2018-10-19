@@ -16,6 +16,11 @@ keywords:
   - allergy
   - calm
   - bath bomb
+  - sore muscle
+  - revive
+  - cramps
+  - hemp oil
+  - irritant
   - soak
   - relaxing
   - pain
