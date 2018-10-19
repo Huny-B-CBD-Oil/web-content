@@ -17,6 +17,7 @@ keywords:
   - relief
   - bath bomb
   - aromatherapy 
+  - anti-inflammation
   - hemp oil
   - soak
   - relaxing
