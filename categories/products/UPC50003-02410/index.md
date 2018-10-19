@@ -1,5 +1,5 @@
 ---
-title: 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 app
+title: 100 mg CBD Serenity Shower Steamers Pepperment & Eucalyptus 1 app
 author: belinda.gates@cbd-oil.app
 date: 2019-10-10
 UPC: 
@@ -8,14 +8,15 @@ UPC:
  - 50003-02491, 144
 categories:
   - products
-description: We designed our 50 mg CBD Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: We designed our 20 mg CBD Shower Steamers to give you that spa feeling and help soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 keywords: 
   - CBD
   - Pepperment Essential Oil
   - Eucalyptus Essential Oil
   - sore muscles
   - Essential Oil
-  - bath bomb
+  - shower steamsers
+  - shower melts
   - soak
   - relaxing
   - pain
