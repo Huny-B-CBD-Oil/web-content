@@ -20,11 +20,15 @@ keywords:
   - antidepressant
   - mood booster
   - aromatherapy
+  - refresh
+  - unwind
+  - alleviate
   - bath bomb
   - energize
   - revive
   - relaxing
-  - reenergize
+  - invigorate
+  - detoxification
   - spa]
 tags: 
   - CBD
