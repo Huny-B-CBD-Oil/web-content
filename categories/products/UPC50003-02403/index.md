@@ -14,7 +14,12 @@ keywords:
   - Sweet Orange Essential Oil
   - Ginger Essential Oil
   - uplifting
-  - Essential Oil
+  - hemp oil
+  - anti-inflammatory
+  - cleansing
+  - antidepressant
+  - mood booster
+  - aromatherapy
   - bath bomb
   - energize
   - revive
