@@ -20,6 +20,7 @@ keywords:
   - relaxing
   - aromatherapy
   - sleeplessness
+  - hemp oil
   - anxiety
   - antidepressant
   - insomnia
