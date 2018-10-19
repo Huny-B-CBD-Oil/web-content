@@ -16,7 +16,8 @@ keywords:
   - sore muscles
   - relief
   - bath bomb
-  - aromatherapy  
+  - aromatherapy 
+  - hemp oil
   - soak
   - relaxing
   - soothe
