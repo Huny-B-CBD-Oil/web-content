@@ -14,6 +14,7 @@ keywords:
   - Essential Oil
   - arnica
   - St John's Wart
+  - Joint Inflammation
   - Lavender
   - Black Pepper Essential Oil
   - Cinnimon Essential Oil
