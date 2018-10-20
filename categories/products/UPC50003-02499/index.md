@@ -17,7 +17,7 @@ keywords:
   - Joint Inflammation
   - Lavender
   - Black Pepper Essential Oil
-  - Cinnimon Essential Oil
+  - Cinnamon Essential Oil
   - Clove Oil
   - Chamomile
   - Comfrey leaves
@@ -30,6 +30,7 @@ keywords:
   - broad spectrum
   - organic
   - herbal remedies
+  - aches
   - CBD
   - neuropathy
   - relaxing
@@ -91,7 +92,7 @@ Designed to soothe your sore muscles with using Hemp Extract plus over 20 Essent
 * Clove Essential Oil
 * Menthol Crystals
 * Ginger Essential Oil
-* Cinnimon 
+* Cinnamon 
 * Cayenne 
 * Arnica
 * St John's Wart
@@ -114,7 +115,7 @@ Designed to soothe your sore muscles with using Hemp Extract plus over 20 Essent
 * Clove Essential Oil
 * Menthol Crystals
 * Ginger Essential Oil
-* Cinnimon 
+* Cinnamon 
 * Cayenne 
 * Arnica
 * St John's Wart
