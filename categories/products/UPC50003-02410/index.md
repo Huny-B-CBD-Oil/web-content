@@ -1,5 +1,5 @@
 ---
-title: 100 mg CBD Serenity Shower Steamers Pepperment & Eucalyptus 1 app
+title: 20 mg CBD Serenity Shower Steamers Pepperment & Eucalyptus 1 app
 author: belinda.gates@cbd-oil.app
 date: 2019-10-10
 UPC: 
@@ -66,8 +66,8 @@ $18.25
 €11.25
 ## Front Panel
 ### Product
-    50 mg CBD
-    Serenity Bath Bombs 
+    20 mg CBD
+    Serenity Shower Steamers 
 ### Identity
     Pepperment
     Eucalyptus
