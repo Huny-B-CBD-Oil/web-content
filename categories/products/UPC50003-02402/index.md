@@ -17,6 +17,7 @@ keywords:
   - cancer
   - migraine
   - sedative
+  - Joint Inflammation
   - burns
   - pain releif
   - headaches
