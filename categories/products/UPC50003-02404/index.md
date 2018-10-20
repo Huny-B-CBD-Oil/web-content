@@ -1,7 +1,7 @@
 ---
 title: 50 mg CBD Serenity Bath Bombs Unscented 1 app
 author: belinda.gates@cbd-oil.app
-date: 2019-10-10
+date: 2019-10-20
 UPC: 
  - 50003-02401, 1
  - 50003-02481, 12
@@ -18,6 +18,9 @@ keywords:
   - sleeplessness
   - alleviate
   - antidepressant
+  - neuropathy
+  - fibromyalgia
+  - arthritis
   - calm
   - bath bomb
   - sore muscle
