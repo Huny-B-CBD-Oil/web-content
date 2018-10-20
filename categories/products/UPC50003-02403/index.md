@@ -18,6 +18,7 @@ keywords:
   - anti-inflammatory
   - cleansing
   - antidepressant
+  - Joint Inflammation
   - mood booster
   - aromatherapy
   - refresh
