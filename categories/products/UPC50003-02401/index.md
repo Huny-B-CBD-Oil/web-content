@@ -16,7 +16,8 @@ keywords:
   - sore muscles
   - relief
   - bath bomb
-  - aromatherapy 
+  - aromatherapy
+  - Joint Inflammation
   - cramps
   - anti-inflammatory
   - hemp oil
