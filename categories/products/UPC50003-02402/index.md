@@ -1,7 +1,7 @@
 ---
 title: 50 mg CBD Serenity Bath Bombs Lavender and Rosemary 1 app
 author: belinda.gates@cbd-oil.app
-date: 2019-10-10
+date: 2019-10-20
 UPC: 
  - 50003-02401, 1
  - 50003-02481, 12
@@ -25,6 +25,9 @@ keywords:
   - bath bomb
   - soak
   - relaxing
+  - neuropathy
+  - fibromyalgia
+  - arthritis
   - aromatherapy
   - sleeplessness
   - hemp oil
