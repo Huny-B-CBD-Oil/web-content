@@ -1,40 +1,57 @@
 ---
-title: 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 app
+title: 250 mg CBD Hemp Healing Salve
 author: belinda.gates@cbd-oil.app
 date: 2019-10-10
 UPC: 
- - 50003-02401, 1
- - 50003-02481, 12
- - 50003-02491, 144
+ - 50003-02499, 1
 categories:
   - products
-description: We designed our 50 mg CBD Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: Using 250 mg of CBD plus over 20 Essential Oils and Herbs to provide relief for sore muscles, aches and pains. Buy now for $12.99 USD.
 keywords: 
-  - CBD
   - Pepperment Essential Oil
   - Eucalyptus Essential Oil
   - sore muscles
   - Essential Oil
-  - bath bomb
-  - soak
+  - arnica
+  - St John's Wart
+  - Lavender
+  - Black Pepper Essential Oil
+  - Cinnimon Essential Oil
+  - Clove Oil
+  - Chamomile
+  - Comfrey leaves
+  - wintergreen
+  - Cayenne
+  - Capsaicin
+  - all natural
+  - hemp oil
+  - full spectrum
+  - broad spectrum
+  - organic
+  - herbal remedies
+  - CBD
+  - neuropathy
   - relaxing
+  - arthris
+  - fibramialoga
+  - stiff muscles
+  - Ginger Essential Oil
   - pain
-  - spa]
+  - Menthol crystals]
 tags: 
   - CBD
   - Pepperment Essential Oil
   - Eucalyptus Essential Oil
   - sore muscles
-  - soak
   - relaxing
   - pain
-  - spa]
+  - hemp oil
 resImgTeaser: something.png
 slug: 50mgCBDBathBombsPepEuc1
 
 ---
 
-# 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 application
+# Hemp Liniment Salve 
 ## price
 ### USD
 Retail $12.99
@@ -49,48 +66,71 @@ $18.25
 €11.25
 ## Front Panel
 ### Product
-    50 mg CBD
-    Serenity Bath Bombs 
+    Hemp Liniment Salve
 ### Identity
     Pepperment
     Eucalyptus
 ### Weight
-    Net Wt. 6 oz.
-    1 application
-## Information Panels
+    Net Wt. 2 oz.
+    ## Information Panels
 ### Direction for Safe Use
 Drop your bathbomb into a warm bath and enjoy the soak.
 
 ### Warnings
 <span class="WarningTheme">
-  Caution: Tub may be slippery when entering and exiting.
+  Caution: Wash your hands after applying. Do not take by mouth. Topical medicine is for use only on the skin. Do not use Liniment on open wounds or on sunburned, windburned, dry, chapped, or irritated skin. If this medicine gets in your eyes, nose, mouth, rectum, or vagina, rinse with water. It is not known whether capsaicin topical passes into breast milk or if it could harm a nursing baby. Do not apply capsaicin topical to your breast area if you are breast-feeding a baby.
 </span>
 
-### Intended Use
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+### Intended UseHemp Liniment Salve to provide relief for sore muscles, aches and pains.
+Designed to soothe your sore muscles with the healing properties of CBD, Arnica, and 20 other Essential Oils and herbs.
 ## Ingredients en-US 
 ### Active Ingredients
 * CBD
-* Citric Acid
-* Baking Soda
-* Epson Salt
-* Cornstarch
+* Black Pepper Essential Oil
+* Cinnimon Essential Oil
+* Coco Butter
+* Clove Essential Oil
+* Menthol Crystals
+* Ginger Essential Oil
+* Cinnimon 
+* Cayenne 
+* Arnica
+* St John's Wart
+* Beeswax
+* Chamomile
+* Lavender
+* Peppermint
+* Wintergreen
+* Clove
+* Olive Oil
+* Hemp Oil
 * Coconut Oil
 * Peppermint Essential Oil
 * Eucalyptus Essential Oil
 ### Other Ingredients
-* Polysorbate 80
-* Mica Color
 ## Ingredients en-UK 
 ### Active Ingredients
 * CBD
-* Citric Acid
-* Baking Soda
-* Epson Salt
-* Cornstarch
+* Coco Butter
+* Black Pepper Essential Oil
+* Cinnimon Essential Oil
+* Clove Essential Oil
+* Menthol Crystals
+* Ginger Essential Oil
+* Cinnimon 
+* Cayenne 
+* Arnica
+* St John's Wart
+* Beeswax
+* Chamomile
+* Lavender
+* Peppermint
+* Wintergreen
+* Clove
+* Olive Oil
+* Hemp Oil
 * Coconut Oil
 * Peppermint Essential Oil
 * Eucalyptus Essential Oil
 ### Other Ingredients
-* Polysorbate 80
-* Mica Color
+
