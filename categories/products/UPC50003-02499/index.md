@@ -99,7 +99,7 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 * Lavender
 * Peppermint
 * Wintergreen
-* clove
+* Clove
 * Olive Oil
 * Hemp Oil
 * Coconut Oil
@@ -122,7 +122,7 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 * Lavender
 * Peppermint
 * Wintergreen
-* clove
+* Clove
 * Olive Oil
 * Hemp Oil
 * Coconut Oil
