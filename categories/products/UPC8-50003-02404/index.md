@@ -1,29 +1,43 @@
 ---
-title: 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 app
+title: 50 mg CBD Serenity Bath Bombs Unscented 1 app
 author: belinda.gates@cbd-oil.app
-date: 2019-10-10
+date: 2019-10-20
 UPC: 
  - 50003-02401, 1
  - 50003-02481, 12
  - 50003-02491, 144
 categories:
   - products
-description: We designed our 50 mg CBD Bath Bombs to soothe your sore muscles by taking advantage of the healing properties of CBD, Peppermint and Eucalyptus Essential Oils. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
+description: We designed our 50 mg CBD Unsected Bath Bombs for people who are have a hard time with the scents but still want to enjoy a good soaking bath. Educate Yourself. Learn more now about research regarding active ingredients. Buy now for $12.99 USD.
 keywords: 
   - CBD
-  - Pepperment Essential Oil
-  - Eucalyptus Essential Oil
-  - sore muscles
-  - Essential Oil
+  - hypoallergenic
+  - unscented
+  - allergy
+  - sedative
+  - sleeplessness
+  - alleviate
+  - antidepressant
+  - neuropathy
+  - fibromyalgia
+  - arthritis
+  - Joint Inflammation
+  - calm
   - bath bomb
+  - sore muscle
+  - anti-inflammatory
+  - revive
+  - cramps
+  - hemp oil
+  - irritant
   - soak
   - relaxing
   - pain
   - spa]
 tags: 
   - CBD
-  - Pepperment Essential Oil
-  - Eucalyptus Essential Oil
+  - hypoallergenic
+  - unscented
   - sore muscles
   - soak
   - relaxing
@@ -34,7 +48,7 @@ slug: 50mgCBDBathBombsPepEuc1
 
 ---
 
-# 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 application
+# 50 mg CBD Serenity Bath Bombs Unscented 1 application
 ## price
 ### USD
 Retail $12.99
@@ -52,9 +66,8 @@ $18.25
     50 mg CBD
     Serenity Bath Bombs 
 ### Identity
-    Pepperment
-    Eucalyptus
-### Weight
+    Unscented
+    ### Weight
     Net Wt. 6 oz.
     1 application
 ## Information Panels
@@ -76,8 +89,6 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 * Epson Salt
 * Cornstarch
 * Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
 ### Other Ingredients
 * Polysorbate 80
 * Mica Color
@@ -89,8 +100,6 @@ Designed to soothe your sore muscles with the healing properties of CBD, Pepperm
 * Epson Salt
 * Cornstarch
 * Coconut Oil
-* Peppermint Essential Oil
-* Eucalyptus Essential Oil
 ### Other Ingredients
 * Polysorbate 80
 * Mica Color
