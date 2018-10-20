@@ -21,6 +21,7 @@ keywords:
   - neuropathy
   - fibromyalgia
   - arthritis
+  - Joint Inflammation
   - calm
   - bath bomb
   - sore muscle
