@@ -16,7 +16,7 @@ keywords:
   - St John's Wart
   - Lavender
   - Black Pepper Essential Oil
-  - Cinnimon Essential Oil
+  - Cinnamon Essential Oil
   - Clove Oil
   - Chamomile
   - Comfrey leaves
@@ -87,7 +87,7 @@ Designed to soothe your sore muscles with the healing properties of CBD, Arnica,
 ### Active Ingredients
 * CBD
 * Black Pepper Essential Oil
-* Cinnimon Essential Oil
+* Cinnamon Essential Oil
 * Coco Butter
 * Clove Essential Oil
 * Menthol Crystals
@@ -113,7 +113,7 @@ Designed to soothe your sore muscles with the healing properties of CBD, Arnica,
 * CBD
 * Coco Butter
 * Black Pepper Essential Oil
-* Cinnimon Essential Oil
+* Cinnamon Essential Oil
 * Clove Essential Oil
 * Menthol Crystals
 * Ginger Essential Oil
