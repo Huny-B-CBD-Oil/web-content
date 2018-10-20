@@ -6,7 +6,7 @@ UPC:
  - 50003-02499, 1
 categories:
   - products
-description: Hemp Liniment Salve to provide relief for sore muscles, aches and pains. Buy now for $12.99 USD.
+description: Using Hemp Extract plus over 20 Essential Oils and Herbs to provide relief for sore muscles, aches and pains.. Buy now for $34.99 USD.
 keywords: 
   - Pepperment Essential Oil
   - Eucalyptus Essential Oil
@@ -55,7 +55,7 @@ slug: 50mgCBDBathBombsPepEuc1
 # Hemp Liniment Salve 
 ## price
 ### USD
-Retail $12.99
+Retail $34.99
 Shipping 3.95
 ### UK
 £9.97
@@ -83,7 +83,7 @@ Drop your bathbomb into a warm bath and enjoy the soak.
 </span>
 
 ### Intended UseHemp Liniment Salve to provide relief for sore muscles, aches and pains.
-Designed to soothe your sore muscles with the healing properties of CBD, Peppermint and Eucalyptus Essential Oils.
+Designed to soothe your sore muscles with using Hemp Extract plus over 20 Essential Oils and Herbs to provide relief for sore muscles, aches and pains.
 ## Ingredients en-US 
 ### Active Ingredients
 * Black Pepper Essential Oil
