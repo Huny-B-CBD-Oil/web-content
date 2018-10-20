@@ -79,7 +79,7 @@ Drop your bathbomb into a warm bath and enjoy the soak.
 
 ### Warnings
 <span class="WarningTheme">
-  Caution: Tub may be slippery when entering and exiting.
+  Caution: Wash your hands after applying. Do not take by mouth. Topical medicine is for use only on the skin. Do not use Liniment on open wounds or on sunburned, windburned, dry, chapped, or irritated skin. If this medicine gets in your eyes, nose, mouth, rectum, or vagina, rinse with water. It is not known whether capsaicin topical passes into breast milk or if it could harm a nursing baby. Do not apply capsaicin topical to your breast area if you are breast-feeding a baby.
 </span>
 
 ### Intended UseHemp Liniment Salve to provide relief for sore muscles, aches and pains.
