@@ -1,7 +1,7 @@
 ---
 title: 50 mg CBD Serenity Bath Bombs Pepperment & Eucalyptus 1 app
 author: belinda.gates@cbd-oil.app
-date: 2019-10-10
+date: 2018-10-20
 UPC: 
  - 50003-02401, 1
  - 50003-02481, 12
@@ -24,6 +24,9 @@ keywords:
   - relaxing
   - soothe
   - sleeplessness
+  - neuropathy
+  - fibromyalgia
+  - arthritis
   - stressed out
   - mental exhaustion
   - congestion
