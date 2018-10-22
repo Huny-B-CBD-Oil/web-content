@@ -6,7 +6,7 @@ UPC:
  - 50003-02499, 1
 categories:
   - products
-description: Using 250 mg of CBD plus over 20 Essential Oils and Herbs to provide relief for sore muscles, aches and pains. Buy now for $12.99 USD.
+description: Using 250 mg of CBD plus over 20 Essential Oils and Herbs to provide relief for sore muscles, aches and pains. Buy now for $49.99 USD.
 keywords: 
   - Pepperment Essential Oil
   - Eucalyptus Essential Oil
@@ -54,7 +54,7 @@ slug: 50mgCBDBathBombsPepEuc1
 # Hemp Liniment Lotion Bar
 ## price
 ### USD
-Retail $12.99
+Retail $49.99
 Shipping 3.95
 ### UK
 £9.97
