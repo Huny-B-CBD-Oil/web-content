@@ -6,7 +6,7 @@ UPC:
  - 50003-02499, 1
 categories:
   - products
-description: Using 250 mg of CBD plus over 20 Essential Oils and Herbs to provide relief for sore muscles, aches and pains. Buy now for $12.99 USD.
+description: Using 250 mg of CBD plus over 20 Essential Oils and Herbs to provide relief for sore muscles, aches and pains. Buy now for $49.99 USD.
 keywords: 
   - Pepperment Essential Oil
   - Eucalyptus Essential Oil
@@ -17,7 +17,8 @@ keywords:
   - Lavender
   - Black Pepper Essential Oil
   - Cinnamon Essential Oil
-  - Clove Oil
+  - Clove Essential Oil
+  - White Camphor Essential Oil
   - Chamomile
   - Comfrey leaves
   - wintergreen
@@ -54,7 +55,7 @@ slug: 50mgCBDBathBombsPepEuc1
 # Hemp Liniment Salve 
 ## price
 ### USD
-Retail $12.99
+Retail $49.99
 Shipping 3.95
 ### UK
 £9.97
@@ -92,6 +93,7 @@ Designed to soothe your sore muscles with the healing properties of CBD, Arnica,
 * Clove Essential Oil
 * Menthol Crystals
 * Ginger Essential Oil
+* White Camphor Essential Oil
 * Cinnimon 
 * Cayenne 
 * Arnica
