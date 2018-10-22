@@ -18,6 +18,7 @@ keywords:
   - Black Pepper Essential Oil
   - Cinnimon Essential Oil
   - Clove Oil
+  - White Camphor Essential Oil
   - Chamomile
   - Comfrey leaves
   - wintergreen
@@ -96,6 +97,7 @@ Designed to soothe your sore muscles with the healing properties of CBD, Arnica,
 * Cayenne 
 * Arnica
 * St John's Wart
+* White Camphor Essential Oil
 * Beeswax
 * Chamomile
 * Lavender
@@ -121,6 +123,7 @@ Designed to soothe your sore muscles with the healing properties of CBD, Arnica,
 * Cayenne 
 * Arnica
 * St John's Wart
+* White Camphor Essential Oil
 * Beeswax
 * Chamomile
 * Lavender
