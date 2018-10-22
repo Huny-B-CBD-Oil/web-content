@@ -27,6 +27,7 @@ keywords:
   - all natural
   - hemp oil
   - full spectrum
+  - White Camphor Essential Oil
   - broad spectrum
   - organic
   - herbal remedies
@@ -96,6 +97,7 @@ Designed to soothe your sore muscles with using Hemp Extract plus over 20 Essent
 * Cayenne 
 * Arnica
 * St John's Wart
+* White Camphor Essential Oil
 * Beeswax
 * Chamomile
 * Lavender
@@ -119,6 +121,7 @@ Designed to soothe your sore muscles with using Hemp Extract plus over 20 Essent
 * Cayenne 
 * Arnica
 * St John's Wart
+* White Camphor Essential Oil
 * Beeswax
 * Chamomile
 * Lavender
