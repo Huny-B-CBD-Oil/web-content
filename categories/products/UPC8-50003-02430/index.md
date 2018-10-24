@@ -67,7 +67,7 @@ $18.25
 €11.25
 ## Front Panel
 ### Product
-    Hemp Liniment Salve
+    CBD & Hemp Liniment Salve
 ### Identity
     Pepperment
     Eucalyptus
