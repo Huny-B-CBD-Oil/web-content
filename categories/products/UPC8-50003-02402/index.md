@@ -28,6 +28,8 @@ keywords:
   - relaxing
   - neuropathy
   - fibromyalgia
+  - broad spectrum
+  - full spectrum
   - arthritis
   - aromatherapy
   - sleeplessness
