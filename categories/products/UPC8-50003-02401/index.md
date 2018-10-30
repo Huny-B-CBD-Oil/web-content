@@ -18,6 +18,8 @@ keywords:
   - bath bomb
   - aromatherapy
   - Joint Inflammation
+  - broad spectrum
+  - full spectrum
   - cramps
   - anti-inflammatory
   - hemp oil
