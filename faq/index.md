@@ -1,131 +1,95 @@
 ---
-title:             "FAQ"
-date:              2017-11-13T15:33:35+01:00
+title: "Frequently Asked Questions"
+date: 2018-10-27T16:53:23-05:00
 toc:               true
 icon:              far fa-question-circle
 resImgTeaser: "**/faq.png"
 description: >
   Frequently asked questions
+draft: false
 ---
+## 1. Where are your products manufactured?
+{{< icon name="fas fa-home" size="fa-2x" >}} 
+Our manufacturing location is in 
+**Delight, Arkansas, USA**.
 
-
-Pellentesque {{% w3-badge %}}habitant{{% /w3-badge %}} morbi tristique senectus et {{% w3-badge "w3-green" %}}netus{{% /w3-badge %}} netus et malesuada
-fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae,
-ultricies eget, tempor sit amet, ante. 
-
-{{< icon name="fas fa-home" size="fa-2x" >}} Donec eu libero sit amet quam
-egestas semper. Aenean ultricies mi vitae est. Mauris placerat
-eleifend leo.
-
-
-## 1. Phasellus at dui in ligula mollis ultricies?
-
-Fusce suscipit, wisi nec {{% w3-tag %}}facilisi {{% /w3-tag %}} est dui
-fermentum leo, quis tempor ligula erat quis odio. {{% w3-tag "w3-blue w3-xxlarge" %}}Nunc{{% /w3-tag %}} porta vulputate tellus. Nunc rutrum
-turpis sed pede. Sed bibendum. Aliquam posuere. Nunc aliquet, augue
-nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi
-purus non odio. Pellentesque condimentum, magna ut suscipit hendrerit,
-ipsum augue ornare nulla, non luctus diam neque sit amet
-urna. Curabitur vulputate vestibulum lorem. Fusce sagittis, libero non
-molestie mollis, magna orci ultrices dolor, at vulputate neque nulla
-lacinia eros. Sed id ligula quis est convallis tempor.  Curabitur
-lacinia pulvinar nibh.
-
-{{% w3-notice-icon %}}**Nam** a sapien.{{% /w3-notice-icon %}}
-
-
-## 2. Nunc rutrum turpis sed pede?
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec
-hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam
-nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis
-natoque penatibus et magnis dis parturient montes, nascetur ridiculus
-mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non
-turpis. Cras placerat accumsan nulla. Nullam rutrum. 
-
-{{% w3-notice-icon type="success" %}}Nam vestibulum *accumsan* nisl.{{% /w3-notice-icon %}}
-
-* Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
-* Nullam tristique diam non turpis.
-* Etiam laoreet quam sed arcu.
-
-
-## 3. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus?
-
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
-terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
-skateboard dolor brunch. 
-{{% w3-alert-icon type="warning" heading="Food truck quinoa nesciunt laborum"  %}}
-Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-single-origin coffee nulla assumenda shoreditch et.
+## 2. How safe is your product?
+Very {{% w3-badge "w3-green" %}}Safe{{% /w3-badge %}}. 
+{{% w3-alert-icon 
+type="warning" 
+heading="Please read the list of natural ingredients carefully." %}}
+You should avoid products which contain things that can cause you an allergic reaction.
 {{% /w3-alert-icon %}}
-Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred
-nesciunt sapiente ea proident. Ad vegan excepteur butcher vice
-lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic
-synth nesciunt you probably haven't heard of them accusamus labore
-sustainable VHS.
 
-{{% w3-notice-icon type="warning" heading="raw denim aesthetic" %}}
-accusamus **labore** sustainable VHS
+
+## 3. What is CBD?
+{{% w3-notice-icon %}}
+Our **CBD Isolate** is a purified CBD that has been extracted from the hemp plant 
+and isolated from the other cannabinoids.
 {{% /w3-notice-icon %}}
 
-
-## 4. Pellentesque tristique imperdiet tortor?
-
-Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
-orci commodo lobortis. 
-
-{{% w3-notice-icon type="danger" heading="Nunc eleifend" %}}
-In id erat non orci commodo lobortis. 
+## 4. Is your product legal where I live?
+{{% w3-notice-icon type="success" %}}
+Because CBD from hemp has no psychoactive effects,
+the purchase, sales, or possession of hemp CBD products
+are completely legal in all 50 States.
 {{% /w3-notice-icon %}}
 
-Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus. Sed
-diam. Praesent fermentum tempor tellus.  Nullam tempus. Mauris ac
-felis vel velit tristique imperdiet. Donec at pede. Etiam vel neque
-nec dui dignissim bibendum. Vivamus id enim. Phasellus neque orci,
-porta a, aliquet quis, semper a, massa.  Phasellus purus. Pellentesque
-tristique imperdiet tortor. Nam euismod tellus id erat.
+## 5. Is there any THC in your products?
+{{% w3-tag "w3-red w3-xlarge" %}}No{{% /w3-tag %}}
 
+## 6. Will it get me high?
+{{% w3-tag "w3-red w3-xlarge" %}}No{{% /w3-tag %}}
 
-{{< heg-load-photoswipe >}}
-{{< heg-figure thumb="-thumb" link="/images/teaserpics/pixabay.com/coffee-2306471_640.jpg"       width="200px" caption-position="bottom" caption-effect="appear" title="Hej" caption="Coffee" >}}
-{{< heg-figure thumb="-thumb" link="/images/teaserpics/pixabay.com/coffee-2714970_640.jpg"       width="200px" caption-position="bottom" caption-effect="appear" caption="Coffee" attr="(c) pixabay.com (CC0)" >}}
-{{< heg-figure thumb="-thumb" link="/images/teaserpics/pixabay.com/coffee-beans-2258839_640.jpg" width="200px" caption-position="bottom" caption-effect="appear" caption="Coffee" attr="(c) pixabay.com (CC0)" attrlink="https://pixabay.com"  >}}
+## 7. Will it show up on a drug test?
+{{% w3-tag "w3-red w3-xlarge" %}}No{{% /w3-tag %}}
 
+## 8. What is your return policy?
+Our policy lasts 30 days. If 30 days have gone by since your purchase, unfortunately we can’t offer you a refund or exchange.
 
-## 5. Nulla posuere?
+To be eligible for a return, your item must be unused and in the same condition that you received it. It must also be in the original packaging.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec
-hendrerit tempor tellus. 
+To complete your return, we require a receipt or proof of purchase.
 
-{{% w3-quote source="Cum sociis" layout="icon" %}}
-Proin quam nisl, **tincidunt** et, mattis eget, convallis nec, purus.
-{{% /w3-quote %}}
+There are certain situations where only partial refunds are granted: (if applicable)
+* Any item not in its original condition, is damaged or missing parts for reasons not due to our error.
+* Any item that is returned more than 30 days after delivery
 
-Donec pretium posuere tellus. Natoque penatibus et magnis dis
-parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae
-dolor. Nullam tristique diam non turpis. Cras placerat accumsan
-nulla. Nullam rutrum. Nam vestibulum accumsan nisl.
+### Refunds (if applicable)
+Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.
+If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within a certain amount of days.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+### Late or missing refunds (if applicable)
+If you haven’t received a refund yet, first check your bank account again.
+Then contact your credit card company, it may take some time before your refund is officially posted.
+Next contact your bank. There is often some processing time before a refund is posted.
+If you’ve done all of this and you still have not received your refund yet, please contact us at cashier@cbd-oil.app.
 
----
+### Sale items (if applicable)
+Only regular priced items may be refunded, unfortunately sale items cannot be refunded.
 
-> Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.
+### Exchanges (if applicable)
+We only replace items if they are defective or damaged.  
+If you need to exchange it for the same item, 
+send us an email at cashier@cbd-oil.app 
+and send your item to: 402 Main St, Arkadelphia, AR, 71923, United States.
 
+### Gifts
+If the item was marked as a gift when purchased and shipped directly to you, 
+you’ll receive a gift credit for the value of your return. 
+Once the returned item is received, a gift certificate will be mailed to you.
 
+If the item wasn’t marked as a gift when purchased, 
+or the gift giver had the order shipped to themselves to give to you later, 
+we will send a refund to the gift giver and he will find out about your return.
 
-{{< heg-gallery dir="/images/photocards/pixabay.com" caption-effect="none" hover-effect="grow" />}} 
+### Shipping
+To return your product, you should mail your product to: 
+402 Main St, Arkadelphia, AR, 71923, United States.
 
+You will be responsible for paying for your own shipping costs for returning your item. 
+Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.
 
-## 6. Praesent fermentum tempor
+Depending on where you live, the time it may take for your exchanged product to reach you, may vary.
 
-| Right | Center | Left |
-| -----:|:------:|:---- |
-|     1 |   2    | 3    |
-
-| default | is left
-| --------|--------
-|    42   |   foo
+If you are shipping an item over $75, you should consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.
