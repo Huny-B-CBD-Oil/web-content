@@ -31,3 +31,4 @@ ingredients:
 **Results:** In general, the often described favorable safety profile of CBD in humans was confirmed and extended by the reviewed research. The majority of studies were performed for treatment of epilepsy and psychotic disorders. Here, the most commonly reported side effects were tiredness, diarrhea, and changes of appetite/weight. In comparison with other drugs, used for the treatment of these medical conditions, CBD has a better side effect profile.
 {{% /w3-quote %}}
 <!--more-->
+Comfrey: A Clinical Overview
